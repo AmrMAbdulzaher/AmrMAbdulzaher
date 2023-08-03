@@ -10,7 +10,7 @@ I’m open to new opportunities and challenges that can help me grow as a profes
 I’m always happy to connect with new people and exchange ideas, feedback and knowledge.
 
 # How to reach me 📫
-### You can find me on: [LinkedIn](https://www.linkedin.com/in/amrnassareng "Feel Free to Connect") | [Email](amrnassareng@gmail.com "Feel Free to Mail me")  
+### You can find me on: [LinkedIn](https://www.linkedin.com/in/amrnassareng "Feel Free to Connect") | [Email](mailto:amrnassareng@gmail.com "Feel Free to Mail me")  
 
 
 Feel free to contact me anytime, I’d love to hear from you! 😊  
