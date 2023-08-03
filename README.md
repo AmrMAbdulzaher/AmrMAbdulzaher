@@ -18,7 +18,7 @@
 -🏢 I’m open to new opportunities and challenges that can help me grow as a professional and as a person.  
 -💬 I’m always happy to connect with new people and exchange ideas, feedback and knowledge. 
 
-### 📫 Connect with me :
+### 📫 Feel Free to Connect with me :
 <a href="https://linkedin.com/in/amrnassareng" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amrnassareng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
