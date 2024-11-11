@@ -8,13 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Testing%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=0b34ba&vCenter=true&size=22"></a>
-</p>   
-  
-  
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mechatronics%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=0b34ba&vCenter=true&size=22"></a>
+</p>
+
 -👨‍💻 As a Mechatronics Engineer, I'm constantly learning and exploring new technologies to improve my skills.  
--⭐ I have a good background in **Software Testing** and **Embedded Software Development**, and I’m always eager to learn more and improve my skills.  
--🤝 I’m interested in collaborating with other engineers and researchers who share my passion for robotics and embedded systems.  
+-⭐ I have a good background in **Mechatronics Engineering**, **Software Testing** and **Embedded Software Development**, and I’m always eager to learn more and improve my skills.  
+-🤝 I’m interested in collaborating with other engineers and researchers who share my passion for industrial automation, robotics and embedded systems.  
 -🎯 I’m open to new opportunities and challenges that can help me grow as a professional and as a person.  
 -💬 I’m always happy to connect with new people and exchange ideas, feedback and knowledge. 
 
